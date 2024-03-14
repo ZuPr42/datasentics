@@ -1,7 +1,10 @@
 books_recommendation
 ==============================
 
-Recommendation of books
+Recommendation of books based on this dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Ratings.csv
+
+
+
 
 Project Organization
 ------------
@@ -52,6 +55,4 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
