@@ -4,6 +4,7 @@ books_recommendation
 Recommendation of books based on this dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Ratings.csv
 
 ├── notebooks:
+
                 1.0-zupr-data_preparation.ipynb
                     - uploading and cleaning the data
                     - saving cleaned data
